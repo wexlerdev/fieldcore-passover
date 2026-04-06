@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Database
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# AI / Tooling
+.tac/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
